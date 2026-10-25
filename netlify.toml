@@ -1,0 +1,4 @@
+# Starmonia: es una página ya armada, no hace falta compilar nada.
+[build]
+  publish = "."
+  command = ""
